@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MovieProject</string>
+
+    <!-- Movies Titles -->
+    <string name="movie_title_1">300</string>
+    <string name="movie_title_2">Mad Max</string>
+    <string name="movie_title_3">Home Alone</string>
+    <string name="movie_title_4">2012</string>
+    <string name="movie_title_5">Jurassic Park</string>
+
+    <!-- Movies Descriptions -->
+    <string name="movie_description_1">Leonardo, King of sparta leads 300 men against the invading Persian Empire</string>
+    <string name="movie_description_2">Ruslle Crow attempts to save a salve girl from dictator ruling in a post apocalyptic Empire </string>
+    <string name="movie_description_3">A family left there kid at home and he got into a lot of trouble</string>
+    <string name="movie_description_4">The end of the world as we know it, but humanity has a life line to live on in a Noah Ark size boat</string>
+    <string name="movie_description_5">A world filled with prehistoric animals, as a group of tourist navigate their way through it</string>
+
+    <string name="todo">TODO</string>
+
+    <!-- Movies Genre -->
+    <string name="genre_movie_1">Action</string>
+    <string name="genre_movie_2">Action</string>
+    <string name="genre_movie_3">Comedy</string>
+    <string name="genre_movie_4">Triller | Action</string>
+    <string name="genre_movie_5">Adventrue | Family</string>
+
+    <!-- Movies Running time -->
+    <string name="movie_running_time_1">2Hr 56min</string>
+    <string name="movie_running_time_2">1Hr 50min</string>
+    <string name="movie_running_time_3">3Hr 20min</string>
+    <string name="movie_running_time_4">1Hr 19min</string>
+    <string name="movie_running_time_5">1Hr 09min</string>
+
+    <!-- Movies Seats remaining goes here ? check it later on -->
+    <string name="seats_remaining">available</string>
+</resources>
